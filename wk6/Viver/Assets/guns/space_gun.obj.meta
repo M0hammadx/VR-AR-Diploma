@@ -1,0 +1,220 @@
+fileFormatVersion: 2
+guid: 7cdf02ab23de523428c725417dd3009b
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: exterior_gatillo_group1
+    100002: group1_aro_canon
+    100004: group1_aro_canon1
+    100006: group1_aro_canon2
+    100008: group1_cuerpo
+    100010: group1_empunadura
+    100012: group1_parte_canon_1
+    100014: group1_parte_canon_3
+    100016: group1_partte_canon_2
+    100018: group1_pCube1
+    100020: group1_pCube2
+    100022: group1_punta_canon
+    100024: //RootNode
+    400000: exterior_gatillo_group1
+    400002: group1_aro_canon
+    400004: group1_aro_canon1
+    400006: group1_aro_canon2
+    400008: group1_cuerpo
+    400010: group1_empunadura
+    400012: group1_parte_canon_1
+    400014: group1_parte_canon_3
+    400016: group1_partte_canon_2
+    400018: group1_pCube1
+    400020: group1_pCube2
+    400022: group1_punta_canon
+    400024: //RootNode
+    2100000: exterior_gatillo_group1Mat
+    2100002: group1_aro_canonMat
+    2100004: group1_aro_canon1Mat
+    2100006: group1_aro_canon2Mat
+    2100008: group1_cuerpoMat
+    2100010: group1_empunaduraMat
+    2100012: group1_parte_canon_1Mat
+    2100014: group1_parte_canon_3Mat
+    2100016: group1_partte_canon_2Mat
+    2100018: group1_pCube1Mat
+    2100020: group1_pCube2Mat
+    2100022: group1_punta_canonMat
+    2300000: exterior_gatillo_group1
+    2300002: group1_aro_canon
+    2300004: group1_aro_canon1
+    2300006: group1_aro_canon2
+    2300008: group1_cuerpo
+    2300010: group1_empunadura
+    2300012: group1_parte_canon_1
+    2300014: group1_parte_canon_3
+    2300016: group1_partte_canon_2
+    2300018: group1_pCube1
+    2300020: group1_pCube2
+    2300022: group1_punta_canon
+    3300000: exterior_gatillo_group1
+    3300002: group1_aro_canon
+    3300004: group1_aro_canon1
+    3300006: group1_aro_canon2
+    3300008: group1_cuerpo
+    3300010: group1_empunadura
+    3300012: group1_parte_canon_1
+    3300014: group1_parte_canon_3
+    3300016: group1_partte_canon_2
+    3300018: group1_pCube1
+    3300020: group1_pCube2
+    3300022: group1_punta_canon
+    4300000: exterior_gatillo_group1
+    4300002: group1_aro_canon
+    4300004: group1_aro_canon1
+    4300006: group1_aro_canon2
+    4300008: group1_cuerpo
+    4300010: group1_empunadura
+    4300012: group1_parte_canon_1
+    4300014: group1_parte_canon_3
+    4300016: group1_partte_canon_2
+    4300018: group1_pCube1
+    4300020: group1_pCube2
+    4300022: group1_punta_canon
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: exterior_gatillo_group1Mat
+    second: {fileID: 2100000, guid: f1a3525f1a7d5b4418168df78b316327, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_aro_canon1Mat
+    second: {fileID: 2100000, guid: 801c4c6bd869c0f44ad22e618591a53c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_aro_canon2Mat
+    second: {fileID: 2100000, guid: c8e36ee9ff55b554683fb7c2a1d9b37a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_aro_canonMat
+    second: {fileID: 2100000, guid: 7c215c3313b72ec47a802df1b24cb547, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_cuerpoMat
+    second: {fileID: 2100000, guid: 14400be87a1ebfa46b801feba867434d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_empunaduraMat
+    second: {fileID: 2100000, guid: cc3081963515c134fa519a5ac91ea9b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_pCube1Mat
+    second: {fileID: 2100000, guid: e2433509b27850346ab64ae6976c6c29, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_pCube2Mat
+    second: {fileID: 2100000, guid: b695c3eabf83f50439b31c81153c0f53, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_parte_canon_1Mat
+    second: {fileID: 2100000, guid: 642cf17e80227ce408ad7d03a36f9f62, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_parte_canon_3Mat
+    second: {fileID: 2100000, guid: f531bffc4c2d5cf46aea5a8f962ce6e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_partte_canon_2Mat
+    second: {fileID: 2100000, guid: e0876d80985c75546a45aa931aa75447, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_punta_canonMat
+    second: {fileID: 2100000, guid: d64f6866ac04d97478b4ddd88d1730aa, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

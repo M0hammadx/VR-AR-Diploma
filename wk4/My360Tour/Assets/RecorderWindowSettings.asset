@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a0205cb8957891b44b142689caa23987, type: 3}
+  m_Name: RecorderWindowSettings
+  m_EditorClassIdentifier: 
+  m_Settings: {fileID: 114462378121741436}
+--- !u!114 &114364561093717146
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ef190f44e596a94ebfec7c7b888a950, type: 3}
+  m_Name: 35d20d55-bcaf-480d-9958-47f35c4cc97d
+  m_EditorClassIdentifier: 
+  m_DisplayName: Pixels
+  m_Id: 6c5ca2c4-43b4-43d7-b48b-79a463f502a7
+  m_OutputSize: 720
+  m_AspectRatio: 0
+  m_ForceEvenSize: 0
+  m_SourceRTxtr: {fileID: 8400000, guid: 17711ae7111e7374c91065ffdeb9ba3f, type: 2}
+--- !u!114 &114462378121741436
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06397f605c749fe4dbe2df4bbd1ef4a1, type: 3}
+  m_Name: Recorder Settings
+  m_EditorClassIdentifier: 
+  m_AssetID: bdc73b75890f0e34689db999ddb0e05b
+  m_CaptureEveryNthFrame: 1
+  m_FrameRateMode: 1
+  m_FrameRate: 30
+  m_FrameRateExact: 1
+  m_StartFrame: 0
+  m_EndFrame: 0
+  m_StartTime: 0
+  m_EndTime: 1
+  m_DurationMode: 1
+  m_SynchFrameRate: 1
+  m_BaseFileName:
+    m_Pattern: tour_<0000>.<ext>
+  m_DestinationPath:
+    m_root: 1
+    m_leaf: /Recordings/tour
+  m_InputsSettings:
+    m_InputsSettingsAssets:
+    - {fileID: 114364561093717146}
+    ownerRecorderSettingsAssetId: bdc73b75890f0e34689db999ddb0e05b
+  m_RecorderTypeName: UnityEngine.Recorder.ImageRecorder, Assembly-CSharp, Version=0.0.0.0,
+    Culture=neutral, PublicKeyToken=null
+  m_OutputFormat: 1

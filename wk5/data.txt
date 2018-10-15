@@ -1,0 +1,14 @@
+
+Week 5
+
+Slides:
+https://drive.google.com/open…
+
+Project: (There won't be any project this time as we were using Unity's package from the asset store)
+
+Package (Corridor Lighting Example)
+https://assetstore(dot)unity.com/…/tutorial-projec…/corridor-lighting-example-33630
+
+Useful Links:
+- Different light modes:
+https://docs.unity3d.com/Manual/LightModes.html
